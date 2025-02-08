@@ -1,4 +1,4 @@
-Week-01 :[]
+Week-01 :[https://github.com/Rishitha541/Gen-AI-2303A52149/blob/main/Gen_AI_Lab_01_Week_01.ipynb]
 
 Week-02 :[]
 
