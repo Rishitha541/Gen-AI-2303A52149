@@ -9,3 +9,5 @@ Week-04 :[https://github.com/Rishitha541/Gen-AI-2303A52149/blob/main/GenAI_2303A
 Week-05 :[https://github.com/Rishitha541/Gen-AI-2303A52149/blob/main/GenAI_2303A52149_5_5.ipynb]
 
 Week-09 :[https://github.com/Rishitha541/Gen-AI-2303A52149/blob/main/GenAI_9_9_1.ipynb]
+
+Week-10 :[https://github.com/Rishitha541/Gen-AI-2303A52149/blob/main/GenAI_10_01.ipynb]
